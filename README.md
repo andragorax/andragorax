@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andragorax
+- 👀 I’m interested in AI Python an ruby
+- 🌱 I’m currently learning to use tensorflow
+- 💞️ I’m looking to collaborate on some AI projects
+- 📫 How to reach me: sen me a message at rkurogata@gmail.com
